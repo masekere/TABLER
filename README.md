@@ -18,4 +18,4 @@ This script will execute `target_script.sh` with various inputs and compare the 
 If you wish to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 # Contact
-For any inquiries or issues, please [contact us](mailto:dropress1@gmail.com)
+For any inquiries or issues, please [contact us](mailtodropress1@gmail.com)
